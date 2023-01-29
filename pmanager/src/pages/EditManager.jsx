@@ -46,7 +46,7 @@ function EditManager() {
     axios
       .put(`http://localhost:5001/api/managers/${id}`, manager)
 
-      //instead of writing manager next to id u can write the long version like this too
+      //instead of writing manager next to id u can write the long version like this 2
       // subtitle: manager.subtitle,
       // price: manager.price,
       // description: manager.description,
